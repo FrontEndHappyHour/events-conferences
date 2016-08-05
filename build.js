@@ -16,10 +16,10 @@ for (const event of obj) {
   }
 
   content += (
-    `\n## [${event.event}](${event.url})
-**Where:** ${event.where}
-**When:** ${event.date}
-**Attending:** ${who}
+    `\n## [${event.event}](${event.url})\n
+**Where:** ${event.where}\n
+**When:** ${event.date}\n
+**Attending:** ${who}\n
 ${event.desc}\n\n`
   );
 }
