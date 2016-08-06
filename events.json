@@ -102,6 +102,16 @@
     "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
   },
   {
+    "event": "DevDay",
+    "url": "http://devday.pl/",
+    "where": "Poland",
+    "date": "September 14, 2016 - September 16, 2016",
+    "who": [
+      "Brian Holt"
+    ],
+    "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
+  },
+  {
     "event": "Full Stack",
     "url": "https://fsto.co/",
     "where": "Toronto, ON",
