@@ -102,16 +102,6 @@
     "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
   },
   {
-    "event": "DevDay",
-    "url": "http://devday.pl/",
-    "where": "Poland",
-    "date": "September 14, 2016 - September 16, 2016",
-    "who": [
-      "Brian Holt"
-    ],
-    "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
-  },
-  {
     "event": "Nordic.js",
     "url": "http://nordicjs.com/",
     "where": "Sweden",
@@ -120,6 +110,16 @@
       "Jem Young"
     ],
     "desc": "Jem will be giving a talk about embracing the future of JavaScript"
+  },
+  {
+    "event": "DevDay",
+    "url": "http://devday.pl/",
+    "where": "Poland",
+    "date": "September 14, 2016 - September 16, 2016",
+    "who": [
+      "Brian Holt"
+    ],
+    "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
   },
   {
     "event": "Full Stack",

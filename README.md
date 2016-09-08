@@ -99,17 +99,6 @@ Ryan, Jem and Ryan will all be attending the React Rally in SLC.
 Brian will be giving a talk on React: Learn Once Write Anywhere.
 
 
-## [DevDay](http://devday.pl/)
-
-**Where:** Poland
-
-**When:** September 14, 2016 - September 16, 2016
-
-**Attending:** Brian Holt
-
-Brian will be giving a talk on React: Learn Once Write Anywhere.
-
-
 ## [Nordic.js](http://nordicjs.com/)
 
 **Where:** Sweden
@@ -119,6 +108,17 @@ Brian will be giving a talk on React: Learn Once Write Anywhere.
 **Attending:** Jem Young
 
 Jem will be giving a talk about embracing the future of JavaScript
+
+
+## [DevDay](http://devday.pl/)
+
+**Where:** Poland
+
+**When:** September 14, 2016 - September 16, 2016
+
+**Attending:** Brian Holt
+
+Brian will be giving a talk on React: Learn Once Write Anywhere.
 
 
 ## [Full Stack](https://fsto.co/)
