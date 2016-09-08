@@ -110,6 +110,17 @@ Brian will be giving a talk on React: Learn Once Write Anywhere.
 Brian will be giving a talk on React: Learn Once Write Anywhere.
 
 
+## [Nordic.js](http://nordicjs.com/)
+
+**Where:** Sweden
+
+**When:** September 8, 2016 - September 9, 2016
+
+**Attending:** Jem Young
+
+Jem will be giving a talk about embracing the future of JavaScript
+
+
 ## [Full Stack](https://fsto.co/)
 
 **Where:** Toronto, ON

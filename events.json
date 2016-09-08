@@ -112,6 +112,16 @@
     "desc": "Brian will be giving a talk on React: Learn Once Write Anywhere."
   },
   {
+    "event": "Nordic.js",
+    "url": "http://nordicjs.com/",
+    "where": "Sweden",
+    "date": "September 8, 2016 - September 9, 2016",
+    "who": [
+      "Jem Young"
+    ],
+    "desc": "Jem will be giving a talk about embracing the future of JavaScript"
+  },
+  {
     "event": "Full Stack",
     "url": "https://fsto.co/",
     "where": "Toronto, ON",
