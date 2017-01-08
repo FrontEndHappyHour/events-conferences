@@ -47,14 +47,12 @@ ${desc}\n\n`
 content += '\n# 2017\n';
 
 for (const event of events2017) {
-  console.log('build 2017')
   content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
 }
 
 content += '\n# 2016\n';
 
 for (const event of events2016) {
-  console.log(events2016)
   content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
 }
 

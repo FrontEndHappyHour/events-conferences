@@ -2,6 +2,17 @@
 A list of events and conferences you can find the Front End Happy Hour panelists at.
 # 2017
 
+## [The SF JavaScript Meetup](https://www.meetup.com/jsmeetup/events/236129357/)
+
+**Where:** San Francisco, CA
+
+**When:** January 4, 2017
+
+**Attending:** Brian Holt, Ryan Burgess
+
+Brian will be speaking on Preact and Inferno.
+
+
 ## [Forward JS](https://forwardjs.com/)
 
 **Where:** San Francisco, CA
