@@ -1,5 +1,20 @@
 # Events & Conferences
 A list of events and conferences you can find the Front End Happy Hour panelists at.
+# 2017
+
+## [Forward JS](https://forwardjs.com/)
+
+**Where:** San Francisco, CA
+
+**When:** February 25 - March 5, 2017
+
+**Attending:** Jem Young, Brian Holt, Mars Jullian, Ryan Burgess
+
+Jem, Brian and Mars will all be speaking at the conference.
+
+
+# 2016
+
 ## [SFHTML5 Meetup](http://www.meetup.com/sfhtml5)
 
 **Where:** San Francisco, CA

@@ -2,6 +2,9 @@
 const fs = require('fs');
 const obj = require('./events.json');
 let content = '# Events & Conferences\nA list of events and conferences you can find the Front End Happy Hour panelists at.';
+const events2016 = [];
+const events2017 = [];
+let newObj;
 
 // create list of events
 for (const event of obj) {
@@ -15,13 +18,44 @@ for (const event of obj) {
     }
   }
 
-  content += (
-    `\n## [${event.event}](${event.url})\n
-**Where:** ${event.where}\n
-**When:** ${event.date}\n
+  newObj = {
+    'event': event.event,
+        'url': event.url,
+        'where': event.where,
+        'date': event.date,
+        'year': event.year,
+        'who': who,
+        'desc': event.desc
+  };
+
+  // add 2016 events to new object
+  if(event.year === '2016') {
+    events2016.push(newObj);
+  }else if(event.year === '2017') {
+    events2017.push(newObj);
+  }
+}
+
+let readmeContent = (event, url, where, date, who, desc) => {
+  return `\n## [${event}](${url})\n
+**Where:** ${where}\n
+**When:** ${date}\n
 **Attending:** ${who}\n
-${event.desc}\n\n`
-  );
+${desc}\n\n`
+}
+
+content += '\n# 2017\n';
+
+for (const event of events2017) {
+  console.log('build 2017')
+  content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
+}
+
+content += '\n# 2016\n';
+
+for (const event of events2016) {
+  console.log(events2016)
+  content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
 }
 
 // create README with the list of conferences

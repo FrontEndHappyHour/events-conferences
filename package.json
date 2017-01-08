@@ -1,0 +1,22 @@
+{
+  "name": "events-conferences",
+  "version": "1.0.0",
+  "description": "A list of events and conferences you can find the Front End Happy Hour panelists at.",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontEndHappyHour/events-conferences.git"
+  },
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrontEndHappyHour/events-conferences/issues"
+  },
+  "homepage": "https://github.com/FrontEndHappyHour/events-conferences#readme",
+  "devDependencies": {
+    "prompt": "^1.0.0"
+  }
+}
