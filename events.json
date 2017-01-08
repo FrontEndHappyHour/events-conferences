@@ -176,5 +176,16 @@
             "Jem Young"
         ],
         "desc": "Jem will be speaking at the conference."
+    },
+    {
+        "event": "O'Reilly Fluent",
+        "url": "http://conferences.oreilly.com/fluent/fl-ca",
+        "date": "June 19 - June 22, 2017",
+        "where": "San Jose, CA",
+        "year": "2017",
+        "who": [
+            "Brian Holt"
+        ],
+        "desc": "Brian will be running a workshop at Fluent and attending the conference."
     }
 ]
