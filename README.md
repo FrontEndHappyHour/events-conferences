@@ -35,6 +35,28 @@ Jem, Brian and Mars will all be speaking at the conference.
 Jem will be speaking at the conference.
 
 
+## [The Sacramento JavaScript Meetup](https://www.meetup.com/The-Sacramento-Javascript-Meetup/)
+
+**Where:** Sacramento, CA
+
+**When:** March 28, 2017
+
+**Attending:** Brian Holt
+
+Brian will be giving a talk at the meetup.
+
+
+## [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca)
+
+**Where:** San Jose, CA
+
+**When:** June 19 - June 22, 2017
+
+**Attending:** Brian Holt
+
+Brian will be running a workshop at Fluent and attending the conference.
+
+
 
 # 2016
 

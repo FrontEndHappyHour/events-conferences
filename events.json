@@ -178,6 +178,17 @@
         "desc": "Jem will be speaking at the conference."
     },
     {
+        "event": "The Sacramento JavaScript Meetup",
+        "url": "https://www.meetup.com/The-Sacramento-Javascript-Meetup/",
+        "date": "March 28, 2017",
+        "where": "Sacramento, CA",
+        "year": "2017",
+        "who": [
+            "Brian Holt"
+        ],
+        "desc": "Brian will be giving a talk at the meetup."
+    },
+    {
         "event": "O'Reilly Fluent",
         "url": "http://conferences.oreilly.com/fluent/fl-ca",
         "date": "June 19 - June 22, 2017",
