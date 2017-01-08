@@ -24,6 +24,18 @@ Brian will be speaking on Preact and Inferno.
 Jem, Brian and Mars will all be speaking at the conference.
 
 
+## [SXSW](https://www.sxsw.com/)
+
+**Where:** Austin, TX
+
+**When:** March 10–19, 2017
+
+**Attending:** Jem Young
+
+Jem will be speaking at the conference.
+
+
+
 # 2016
 
 ## [SFHTML5 Meetup](http://www.meetup.com/sfhtml5)

@@ -165,5 +165,16 @@
             "Jem Young, Brian Holt, Mars Jullian, Ryan Burgess"
         ],
         "desc": "Jem, Brian and Mars will all be speaking at the conference."
+    },
+    {
+        "event": "SXSW",
+        "url": "https://www.sxsw.com/",
+        "date": "March 10–19, 2017",
+        "where": "Austin, TX",
+        "year": "2017",
+        "who": [
+            "Jem Young"
+        ],
+        "desc": "Jem will be speaking at the conference."
     }
 ]

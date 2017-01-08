@@ -50,7 +50,7 @@ for (const event of events2017) {
   content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
 }
 
-content += '\n# 2016\n';
+content += '\n\n# 2016\n';
 
 for (const event of events2016) {
   content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
