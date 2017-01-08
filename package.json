@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/FrontEndHappyHour/events-conferences#readme",
   "devDependencies": {
+    "ghooks": "^2.0.0",
     "prompt": "^1.0.0"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "node build",
+      "pre-push": "node build",
+      "post-merge": "npm install",
+      "post-rewrite": "npm install"
+    }
   }
 }
