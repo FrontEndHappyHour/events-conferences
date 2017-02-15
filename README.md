@@ -19,7 +19,7 @@ Brian will be speaking on Preact and Inferno.
 
 **When:** February 25 - March 5, 2017
 
-**Attending:** Jem Young, Brian Holt, Mars Jullian, Ryan Burgess
+**Attending:** Jem Young, Brian Holt, Mars Jullian, Ryan Burgess, Stacy London
 
 Jem, Brian and Mars will all be speaking at the conference.
 
