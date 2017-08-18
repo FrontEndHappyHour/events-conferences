@@ -57,6 +57,28 @@ Brian will be giving a talk at the meetup.
 Brian will be running a workshop at Fluent and attending the conference.
 
 
+## [Nordic JS](http://nordicjs.com/)
+
+**Where:** Stockholm, Sweden
+
+**When:** September 7 - 8, 2017
+
+**Attending:** Mars
+
+Mars will be giving a talk about reusable components in React.
+
+
+## [Brazil JS](https://braziljs.org/conf/)
+
+**Where:** Brazil
+
+**When:** August 25 - 26, 2017
+
+**Attending:** Jem
+
+Jem will be giving a talk on code maintenance.
+
+
 
 # 2016
 

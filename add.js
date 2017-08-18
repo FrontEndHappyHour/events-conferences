@@ -19,7 +19,7 @@ const schema = {
       required: true
     },
     when: {
-      description: 'Event dates',
+      description: 'Event dates (make sure to add the year)',
       pattern: /([^\s]+)/g,
       message: 'Name must be only letters, spaces, or dashes',
       required: true

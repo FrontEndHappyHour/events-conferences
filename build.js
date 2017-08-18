@@ -18,6 +18,7 @@ for (const event of obj) {
     }
   }
 
+  // create an object of the event details
   newObj = {
     'event': event.event,
         'url': event.url,
@@ -36,6 +37,7 @@ for (const event of obj) {
   }
 }
 
+// content details displayed on the readme
 let readmeContent = (event, url, where, date, who, desc) => {
   return `\n## [${event}](${url})\n
 **Where:** ${where}\n
@@ -44,12 +46,14 @@ let readmeContent = (event, url, where, date, who, desc) => {
 ${desc}\n\n`
 }
 
+// create a heading for the year
 content += '\n# 2017\n';
 
 for (const event of events2017) {
   content += readmeContent(event.event, event.url, event.where, event.date, event.who, event.desc);
 }
 
+// create a heading for the year
 content += '\n\n# 2016\n';
 
 for (const event of events2016) {

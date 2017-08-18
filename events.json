@@ -198,5 +198,27 @@
             "Brian Holt"
         ],
         "desc": "Brian will be running a workshop at Fluent and attending the conference."
+    },
+    {
+        "event": "Nordic JS",
+        "url": "http://nordicjs.com/",
+        "date": "September 7 - 8, 2017",
+        "where": "Stockholm, Sweden",
+        "year": "2017",
+        "who": [
+            "Mars"
+        ],
+        "desc": "Mars will be giving a talk about reusable components in React."
+    },
+    {
+        "event": "Brazil JS",
+        "url": "https://braziljs.org/conf/",
+        "date": "August 25 - 26, 2017",
+        "where": "Brazil",
+        "year": "2017",
+        "who": [
+            "Jem"
+        ],
+        "desc": "Jem will be giving a talk on code maintenance."
     }
 ]
