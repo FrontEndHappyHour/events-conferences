@@ -79,6 +79,17 @@ Mars will be giving a talk about reusable components in React.
 Jem will be giving a talk on code maintenance.
 
 
+## [Try Swift NYC](https://www.tryswift.co)
+
+**Where:** NYC
+
+**When:** September 5 & 6, 2017
+
+**Attending:** Derek Showers
+
+Derek will be attending
+
+
 
 # 2016
 

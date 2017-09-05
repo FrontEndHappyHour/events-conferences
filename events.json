@@ -220,5 +220,16 @@
             "Jem"
         ],
         "desc": "Jem will be giving a talk on code maintenance."
+    },
+    {
+        "event": "Try Swift NYC",
+        "url": "https://www.tryswift.co",
+        "date": "September 5 & 6, 2017",
+        "where": "NYC",
+        "year": "2017",
+        "who": [
+            "Derek Showers"
+        ],
+        "desc": "Derek will be attending"
     }
 ]
