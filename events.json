@@ -231,5 +231,28 @@
             "Derek Showers"
         ],
         "desc": "Derek will be attending"
+    },
+    {
+        "event": "KotlinConf",
+        "url": "https://www.kotlinconf.com/",
+        "date": "November 2 & 3, 2017",
+        "where": "San Francisco",
+        "year": "2017",
+        "who": [
+            "Ryan Burgess"
+        ],
+        "desc": "Ryan will be attending"
+    },
+    {
+        "event": "SFHTML5 Meetup",
+        "url": "https://www.meetup.com/sfhtml5/events/244074642/",
+        "date": "November 17, 2017",
+        "where": "San Francisco",
+        "year": "2017",
+        "who": [
+            "Mars Jullian",
+            "Ryan Burgess"
+        ],
+        "desc": "Mars will be speaking. Ryan will be attending."
     }
 ]

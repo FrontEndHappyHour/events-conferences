@@ -90,6 +90,28 @@ Jem will be giving a talk on code maintenance.
 Derek will be attending
 
 
+## [KotlinConf](https://www.kotlinconf.com/)
+
+**Where:** San Francisco
+
+**When:** November 2 & 3, 2017
+
+**Attending:** Ryan Burgess
+
+Ryan will be attending
+
+
+## [SFHTML5 Meetup](https://www.meetup.com/sfhtml5/events/244074642/)
+
+**Where:** San Francisco
+
+**When:** November 17, 2017
+
+**Attending:** Mars Jullian, Ryan Burgess
+
+Mars will be speaking. Ryan will be attending.
+
+
 
 # 2016
 
